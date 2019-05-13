@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameControlSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui">
+	<e:Rect width="1280" height="720" x="0" y="0" fillColor="0xfca4a4"/>
+</e:Skin>

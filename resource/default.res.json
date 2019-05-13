@@ -1,0 +1,35 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,shadowFiend_tex_png,shadowFiend_ske_json,shadowFiend_tex_json,airplane_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "shadowFiend_tex_png",
+			"type": "image",
+			"url": "assets/dragonBones/shadowFiend_tex.png"
+		},
+		{
+			"name": "shadowFiend_ske_json",
+			"type": "json",
+			"url": "assets/dragonBones/shadowFiend_ske.json"
+		},
+		{
+			"name": "shadowFiend_tex_json",
+			"type": "json",
+			"url": "assets/dragonBones/shadowFiend_tex.json"
+		},
+		{
+			"name": "airplane_png",
+			"type": "image",
+			"url": "airplane.png"
+		}
+	]
+}

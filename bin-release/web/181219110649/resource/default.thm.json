@@ -1,0 +1,8 @@
+{
+	"skins": {},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/eui_skins/GameControlSkin.exml"
+	],
+	"path": "resource/default.thm.json"
+}
